@@ -1,0 +1,10 @@
+INPUT: AR_RWGS_Flowsheet.inm
+MODNAME: apmain
+RUNID: AR_RWGS_Flowsheet
+NEW_RUNID: AR_RWGS_Flowsheet
+OLD_RUNID: AR_RWGS_Flowsheet
+PDF: AR_RWGS_Flowsheet.appdf
+USERNAME: anil
+XMOD: C:\Program Files\AspenTech\Aspen Plus V12.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _0450hkf.ads
